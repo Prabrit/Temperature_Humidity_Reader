@@ -1,6 +1,6 @@
 # Temperature and humidity reader by using arduino R3 and DHT11 
 
-## Description:
+# Description:
 
 This Arduino project provides a simple yet effective solution for monitoring real-time temperature and humidity levels using a DHT11 sensor. The collected data is displayed on a connected LCD screen, offering a clear and convenient way to keep track of environmental conditions.
 
@@ -17,6 +17,7 @@ This Arduino project provides a simple yet effective solution for monitoring rea
    * Arduino R3 board 
    * DHT11 temperature and humidity sensor
    * LCD display (16x2)
+   * Potentiometer(10KΩ)
    * Jumper wires
 
 2. **Software Requirements:**
@@ -29,6 +30,7 @@ This Arduino project provides a simple yet effective solution for monitoring rea
 
 4. **Circuit Diagram:**
    Here is the circuit digram for the project.
+   
    ![Alt text](https://github.com/Prabrit/Temperature_Humidity_Reader-/blob/main/Circuit_Diagram.png)
 
    * Note: Pins are connected in the diagram according to the code .   
