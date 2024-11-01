@@ -31,7 +31,7 @@ This Arduino project provides a simple yet effective solution for monitoring rea
 4. **Circuit Diagram:**
    Here is the circuit digram for the project.
    
-   ![Alt text](https://github.com/Prabrit/Temperature_Humidity_Reader-/blob/main/Circuit_Diagram.png)
+ ![Alt text](https://github.com/Prabrit/Temperature_Humidity_Reader-/blob/main/Circuit_Diagram.png)
 
   **Note:** Pins are connected in the diagram according to the code .   
 
