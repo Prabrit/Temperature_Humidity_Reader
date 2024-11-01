@@ -33,7 +33,7 @@ This Arduino project provides a simple yet effective solution for monitoring rea
    
    ![Alt text](https://github.com/Prabrit/Temperature_Humidity_Reader-/blob/main/Circuit_Diagram.png)
 
-   * Note: Pins are connected in the diagram according to the code .   
+  **Note:** Pins are connected in the diagram according to the code .   
 
 # Disclaimer:
 The c++ library use for DHT11 sensor is not prebuild in Arduino IDE. So you have to upload the zip file to run the code . Here is some guide which helps to upload the zip -
@@ -48,10 +48,14 @@ The c++ library use for DHT11 sensor is not prebuild in Arduino IDE. So you have
 
 **Step 3:**
    * In include library , there is a option Add .ZIP Library . Then upload DHT11 library zip file . It will take some time .
+
+     
      ![Alt text](https://github.com/Prabrit/Temperature_Humidity_Reader-/blob/main/libadd02.png)
 
 # Project Image:
 Here is the image of the final project .
+
+
 ![Alt text](https://github.com/Prabrit/Temperature_Humidity_Reader-/blob/main/Hum_Temp.jpg)
       
      
